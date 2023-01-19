@@ -6,9 +6,22 @@
     },
     "devDependencies": {
         "axios": "^1.1.2",
+        "bootstrap": "^5.2.0",
+        "cross-env": "^7.0.3",
+        "foreman": "^3.0.1",
+        "jquery": "^3.6",
         "laravel-vite-plugin": "^0.7.2",
         "lodash": "^4.17.19",
+        "popper.js": "^1.16",
         "postcss": "^8.1.14",
-        "vite": "^4.0.0"
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.54.0",
+        "sass-loader": "^13.0.2",
+        "vite": "^4.0.0",
+        "vue-template-compiler": "^2.7.8"
+    },
+    "dependencies": {
+        "@rails/ujs": "^7.0.4-1",
+        "jquery-ujs": "^1.2.3"
     }
 }
